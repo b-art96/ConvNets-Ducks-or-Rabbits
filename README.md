@@ -1,2 +1,2 @@
-# ConvNets-Ducks-or-Rabbits
+# Real_Time_Recognition-ConvNets-Ducks-or-Rabbits
 This project focuses on building, training and implementing a CNN-based classifier that is able to discriminate and distinguish between ducks and rabbits. Implementation is accompanied by an analysis of obatained results and embeddings visualisation. Additionally, an attempt of transfer learning has been carried out for the cats and dogs classification problem. Finally, a functionality that enables real-time ducks and rabbits recognition was implemented.
